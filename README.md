@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/scala212-category-theory-set-curry-howard-isomorphism.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala212-category-theory-set-curry-howard-isomorphism)
+
 # scala212-category-theory-set-curry-howard-isomorphism
 _Reference_: https://bartoszmilewski.com/2015/03/13/function-types/
 
